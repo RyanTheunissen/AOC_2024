@@ -1,4 +1,4 @@
-with open('../input/day_1_data.txt', 'r') as file:
+with open('../../input/day_1_data.txt', 'r') as file:
     data = file.read()
 
 list_left = []
